@@ -23,6 +23,7 @@ This is the finished source code from the **Supabase & Vue 3 Tutorial** series o
 - In Name, enter **entries**
 - Disable **Enable Row Level Security (RLS)**
 - Enable **Enable Realtime**
+- For the **id** column, change the **Type** to **uuid**
 - Add the following columns (by clicking **Add column**):
 
 | Name   | Type   | Default Value
@@ -32,7 +33,7 @@ This is the finished source code from the **Supabase & Vue 3 Tutorial** series o
 | paid   | bool   | false |
 | order  | int8   | 1 |
 
-![Supabase - Create Entries Table](https://github.com/user-attachments/assets/b0944bee-30a8-4f30-9774-023fdb834136)
+![Supabase - Create Entries Table](https://github.com/user-attachments/assets/52effa7d-178c-4058-880f-be6ceed5cb7f)
 
 - Click **Save**
 
