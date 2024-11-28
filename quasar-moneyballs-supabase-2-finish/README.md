@@ -12,7 +12,7 @@ This is the finished source code from the **Supabase & Vue 3 Tutorial** series o
   - Choose a Region
   - Click **Create new project**:
 
-![Supabase - Create new project](https://github.com/user-attachments/assets/a65a9736-e66b-4607-a596-bde8c6f06026)
+![Supabase - Create new project](https://github.com/user-attachments/assets/e3f6b47e-41ed-4c8a-acf6-80231e114fd6)
 
 ### Create Entries Table
 
